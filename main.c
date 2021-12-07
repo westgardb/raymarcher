@@ -1,12 +1,3 @@
-/*-----------------------
-
-OpenGL Fractal Generator
-@file main.cpp
-@author Ben Westgard
-@date Dec 16, 2020
-
------------------------*/
-
 #include <stdio.h>
 
 #include <SDL2/SDL.h>
